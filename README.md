@@ -1,4 +1,4 @@
-##  🐍 Desenvolvendo! :) 
+##  🐍 Desenvolvendo e aprendendo! :) 
 <div align="center">
   <a href="https://github.com/moonixt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moonixt&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
