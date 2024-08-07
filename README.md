@@ -6,7 +6,7 @@
 
 ## Currently focused on:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,electron,js,react,tailwind)](https://skillicons.dev)
 
 ## Soon i want to learn:
 
