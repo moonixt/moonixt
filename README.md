@@ -4,5 +4,11 @@
 
 [![Moonixt GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=moonixt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+## Currently focused on:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,tailwind)](https://skillicons.dev)
+
+## Soon i want to learn:
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,vue,cpp)](https://skillicons.dev)
+
