@@ -6,9 +6,9 @@
 
 ## Currently focused on:
 
-[![My Skills](https://skillicons.dev/icons?i=django,python,electron,js,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,django,python,electron,js,react,tailwind)](https://skillicons.dev)
 
 ## Soon i want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,vue,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,cpp)](https://skillicons.dev)
 
