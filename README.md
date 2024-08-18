@@ -10,5 +10,5 @@
 
 ## Soon i want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,cpp,angular)](https://skillicons.dev)
 
