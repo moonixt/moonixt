@@ -6,9 +6,7 @@
 
 ## Currently focused on:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,django,python,electron,js,react,tailwind,angular,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,django,python,electron,js,react,nestjs,tailwind,angular,nodejs,mongodb)](https://skillicons.dev)
 
-## Soon i want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,cpp)](https://skillicons.dev)
 
