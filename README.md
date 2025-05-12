@@ -1,4 +1,4 @@
-<p><img src="https://github.com/user-attachments/assets/f6a2aee3-f978-4052-88ef-2486999ea591" alt="Aditya Vikram Singh Banner"></p>
+<p><img src="https://github.com/user-attachments/assets/90454c29-1278-411b-91fa-41b69270b7b9" alt="Banner"></p>
 
 ##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=000000DF&width=435&lines=Hey%2C+I%E2%80%99m+a+fullstack+dev!)](https://git.io/typing-svg)
 [![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,django,python,electron,js,react,nestjs,tailwind,angular,nodejs,unreal,supabase)](https://skillicons.dev)
