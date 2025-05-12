@@ -7,7 +7,7 @@
 <p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ3enI4aGR0dXg3MGZnZWMzZ3BiZjMxMTR1YW9rOW5yeXFzYjZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 ✔ I’m currently developing <strong>Kot-space</strong> a note-taking APP  <a href="https://github.com/moonixt/Kot-space"><strong>check here</strong></a><br>
 ✔ I’m constantly improving the skills above <br>
-✔ I’m introducing myself to the mods community of some games that i like<br> 
+✔ I’m introducing myself to the mods community of some games that i like through <a href="https://mod.io/g/readyornot/u/moonxd"><strong>Mod.io</strong></a> and  <a href="https://next.nexusmods.com/profile/derekoob/mods"><strong>Nexus Mods</strong></a> <br> 
 ✔ I’m happy to collaborate with any <strong>Open - Source contribution</strong><br>
 ✔ I regularly write articles on <a href="https://www.ederin.net/">my website</a> <br>
 ✔ Ask me about anything, I am happy to help and also learn new things<br><br>
