@@ -8,7 +8,6 @@
 ✔ I’m constantly improving the skills above <br>
 ✔ I’m introducing myself to the mods community of some games that i like through <a href="https://mod.io/g/readyornot/u/moonxd"><strong>Mod.io</strong></a> and  <a href="https://next.nexusmods.com/profile/derekoob/mods"><strong>Nexus Mods</strong></a> <br> 
 ✔ I’m happy to collaborate with any <strong>Open - Source contribution</strong><br>
-✔ I regularly write articles on <a href="https://www.ederin.net/">my website</a> <br>
 ✔ Ask me about anything, I am happy to help and also learn new things<br><br>
 
 [![Moonixt GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=moonixt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
