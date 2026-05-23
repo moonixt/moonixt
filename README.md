@@ -1,4 +1,4 @@
-<p><img src="https://github.com/user-attachments/assets/f6a2aee3-f978-4052-88ef-2486999ea591" alt="Banner"></p>
+<img width="3404" height="1260" alt="Capa para Facebook - Olá, me chamo Derek  (2) (1)" src="https://github.com/user-attachments/assets/91aa223c-1f24-4422-83a0-62bfd1a41944" />
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,django,python,electron,js,react,nestjs,tailwind,angular,nodejs,unreal,supabase)](https://skillicons.dev)
 
