@@ -1,5 +1,4 @@
-<img width="3404" height="1260" alt="Capa para Facebook - Olá, me chamo Derek  (2) (1)" src="https://github.com/user-attachments/assets/91aa223c-1f24-4422-83a0-62bfd1a41944" />
-
+![GitHub Space Shooter](game.gif)
 [![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,django,python,electron,js,react,nestjs,tailwind,angular,nodejs,unreal,supabase)](https://skillicons.dev)
 
 <img align="right" width="300px" alt="Cat" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l3aHZoZ2cyd3RnNWh1OTEzY2N6MXF4dXp1b2Nzc2l1NnhpMzJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dT7LBdAZP1Rh6/giphy.gif">
@@ -14,7 +13,7 @@
 
 <br>
 
-![GitHub Space Shooter](game.gif)
+
 
 
 
