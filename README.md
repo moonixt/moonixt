@@ -1,9 +1,10 @@
 ![GitHub Space Shooter](game.gif)
 [![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,django,python,electron,js,react,nestjs,tailwind,angular,nodejs,unreal,supabase)](https://skillicons.dev)
 
-<img align="right" width="300px" alt="Cat" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l3aHZoZ2cyd3RnNWh1OTEzY2N6MXF4dXp1b2Nzc2l1NnhpMzJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dT7LBdAZP1Rh6/giphy.gif">
+<img width="300" height="300" alt="minamp4(1)" src="https://github.com/user-attachments/assets/b1a72a04-c988-4e9c-9da8-dc07837fa450" />
+
 <p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ3enI4aGR0dXg3MGZnZWMzZ3BiZjMxMTR1YW9rOW5yeXFzYjZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
-✔ I’m currently developing <strong>Lynxky</strong> <a href="https://github.com/moonixt/Kot-space"><strong>check here</strong></a><br>
+✔ I’m currently developing <strong>Hermina</strong><br>
 ✔ I’m constantly improving the skills above <br>
 ✔ I’m introducing myself to the mods community of some games that i like through <a href="https://mod.io/g/readyornot/u/moonxd"><strong>Mod.io</strong></a> and  <a href="https://next.nexusmods.com/profile/derekoob/mods"><strong>Nexus Mods</strong></a> <br> 
 ✔ I’m happy to collaborate with any <strong>Open - Source contribution</strong><br>
